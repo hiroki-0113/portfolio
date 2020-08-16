@@ -5,7 +5,7 @@
       <div class="work">
         <h1 class="title">Portfolio site</h1>
         <h3>langage：HTML,CSS,SASS,VUE</h3>
-        <h3>github：<a href="">portfolio code</a></h3>
+        <h3>github：<a href="https://github.com/hiroki-0113/portfolio">portfolio code</a></h3>
         <h3>pages：<a href="https://hiroki-portfolio.netlify.app/works">netlify pages</a></h3>
         <h3>point：ポートフォリオサイトをvue cliをベースに作成しました。vue typerのタイピングアニメーションでおしゃれなデザインにしました。</h3>
       </div>
